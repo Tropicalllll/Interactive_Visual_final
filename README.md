@@ -11,14 +11,14 @@ Q：面对瞬息万变的综艺市场，到底是哪些行业一直乐此不疲�
 Q：反之，综艺节目接受的品牌赞助类型是否有哪些规律趋势？合作的领域是否与当下社会的景气行业一致？ 
 本可视化产品将通过剖析2019年下半年及Q4季度品牌赞助状况，从横纵向多个维度对不同行业赞助商的行为偏好和地方卫视的品牌投放质量进行解读。
 
-# 数据来源：[击壤科技](http://www.laptry.com/)
+### 数据来源：[击壤科技](http://www.laptry.com/)
 ### 数据结构
 ![数据结构](https://upload-images.jianshu.io/upload_images/9515896-a43007f1fb4a4117.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 相关过程文件
-### 数据清洗档
-### 图表最终汇总档
-### 数据故事文字版
+### 数据清洗档 [click here!](https://github.com/Tropicalllll/Interactive_Visual_final/blob/master/%E6%95%B0%E6%8D%AE%E6%B8%85%E6%B4%97%E6%A1%A3.ipynb)
+### 图表最终汇总档 [click here!](https://github.com/Tropicalllll/Interactive_Visual_final/blob/master/%E5%9B%BE%E8%A1%A8%E6%B1%87%E6%80%BB%E6%A1%A3.ipynb)
+### 数据故事文字版 [click here!](https://github.com/Tropicalllll/Interactive_Visual_final/blob/master/%E6%95%B0%E6%8D%AE%E6%95%85%E4%BA%8B.txt)
 
 # 最终成果
-### Pythonanywhere链接入口！！！！
+### Pythonanywhere链接入口！！！！ [click here!](http://yunru.pythonanywhere.com/)
