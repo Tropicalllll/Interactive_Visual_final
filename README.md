@@ -21,4 +21,4 @@ Q：反之，综艺节目接受的品牌赞助类型是否有哪些规律趋势�
 ### 数据故事文字版 [click here!](https://github.com/Tropicalllll/Interactive_Visual_final/blob/master/%E6%95%B0%E6%8D%AE%E6%95%85%E4%BA%8B.txt)
 
 # 最终成果
-### Pythonanywhere链接入口！！！！ [click here!](http://yunru.pythonanywhere.com/)
+### Pythonanywhere链接入口！！！！ [click here!](http://variety1.pythonanywhere.com/)
